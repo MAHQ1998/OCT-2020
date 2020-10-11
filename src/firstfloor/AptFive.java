@@ -2,6 +2,10 @@ package firstfloor;
 
 public class AptFive {
 	
+	public AptFive() {
+		
+	}
+	
 	public static void main(String[] args) {
 		String laptop = "Macbook Pro";
 		System.out.println(laptop);
